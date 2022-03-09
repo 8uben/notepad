@@ -1,4 +1,1 @@
-.idea
-Link*
-Task*
-Memo*
+/db/*.sqlite*
